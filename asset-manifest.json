@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/speedometer-/static/css/main.0f733092.chunk.css",
+    "main.js": "/speedometer-/static/js/main.0efe69a3.chunk.js",
+    "main.js.map": "/speedometer-/static/js/main.0efe69a3.chunk.js.map",
+    "runtime-main.js": "/speedometer-/static/js/runtime-main.4ca8dd6a.js",
+    "runtime-main.js.map": "/speedometer-/static/js/runtime-main.4ca8dd6a.js.map",
+    "static/js/2.eb985710.chunk.js": "/speedometer-/static/js/2.eb985710.chunk.js",
+    "static/js/2.eb985710.chunk.js.map": "/speedometer-/static/js/2.eb985710.chunk.js.map",
+    "index.html": "/speedometer-/index.html",
+    "static/css/main.0f733092.chunk.css.map": "/speedometer-/static/css/main.0f733092.chunk.css.map",
+    "static/js/2.eb985710.chunk.js.LICENSE.txt": "/speedometer-/static/js/2.eb985710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca8dd6a.js",
+    "static/js/2.eb985710.chunk.js",
+    "static/css/main.0f733092.chunk.css",
+    "static/js/main.0efe69a3.chunk.js"
+  ]
+}
